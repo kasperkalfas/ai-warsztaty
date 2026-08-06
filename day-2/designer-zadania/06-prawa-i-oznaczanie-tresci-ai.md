@@ -3,6 +3,7 @@
 **Cel:** wiedzieć, czego **nie wolno** generować, jak oznaczać materiały
 tworzone przez AI i co dzieje się z Twoimi danymi w narzędziu.
 **Poziom:** dyskusyjny (bez generowania grafiki)
+**Budżet:** 0 kredytów AI – pracujesz na plikach pobranych wcześniej
 
 ## Materiały
 

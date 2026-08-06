@@ -45,8 +45,12 @@ własnego projektu, weź dowolny gotowy materiał z folderu
   w kolorze – a to właśnie kontrast decyduje o dostępności materiału dla
   osób słabowidzących i o czytelności wydruku na zwykłej drukarce.
 - Nie każdy szablon i element graficzny z darmowego planu jest dostępny bez
-  ograniczeń – część funkcji bywa oznaczona jako premium. Buduj serię
-  z elementów, które na pewno masz.
+  ograniczeń – część funkcji bywa oznaczona jako premium (dotyczy to m.in.
+  zestawu marki / Brand kit). Buduj serię z elementów, które na pewno masz –
+  notatnik z zapisanymi kolorami działa tak samo dobrze.
+- To zadanie pokazuje rzecz wartą zapamiętania: **większość pracy graficznej
+  to nie generowanie**. Układ, kontrast, typografia i formaty decydują
+  o jakości materiału, a nie kosztują ani jednego kredytu AI.
 
 ## Notatki własne
 
