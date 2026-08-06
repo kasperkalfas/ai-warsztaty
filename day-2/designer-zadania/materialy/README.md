@@ -1,38 +1,47 @@
 # Materiały zapasowe do zadań z Microsoft Designer
 
-Folder na **gotowe grafiki przygotowane przez prowadzącego przed
-szkoleniem**. Ich jedyny cel: umożliwić wykonanie zadań 3, 5 i 7 osobom,
-którym skończyły się kredyty AI, albo całej grupie, jeśli w sali padnie
-internet.
+Gotowe pliki graficzne na wypadek, gdy uczestnikowi **skończą się kredyty
+AI** albo Designer nie zadziała. Wszystkie można wgrać do projektu
+w Designerze jako tło lub zdjęcie i pracować dalej bez generowania.
 
-## Co tu wgrać
+## Zawartość
 
-Prowadzący generuje to **raz, ze swojego konta**, przed warsztatami:
+| Plik | Rozmiar | Do czego |
+|------|---------|----------|
+| `tlo-01-geometryczne-zielen.png` | 1080×1080 | tło pod post/plakat o tematyce społecznej, spokojna zieleń |
+| `tlo-02-cieple-fale.png` | 1080×1080 | ciepłe, przyjazne tło – zaproszenia, wydarzenia |
+| `tlo-03-minimal-jasne-a4.png` | 1240×1754 (A4) | jasne tło pod plakat z dużą ilością tekstu |
+| `tlo-04-bloki-kolorow.png` | 1080×1080 | mocne bloki kolorów, nowoczesny post |
+| `tlo-05-panorama-niebieska.png` | 1920×1080 | format poziomy – slajd, baner, nagłówek |
+| `przyklad-napis-centrum-kreatywnosci.png` | 1080×1080 | przykład do [zadania 7](../07-centrum-kreatywnosci-galeria.md) – napis dodany polem tekstowym |
 
-| Plik | Zawartość | Używane w |
-|------|-----------|-----------|
-| `tlo-wolontariat-1.png` | grupa wolontariuszy, fotografia, poziomy | zadania 3, 5 |
-| `tlo-wolontariat-2.png` | to samo ujęcie, styl ilustracji wektorowej | zadania 3, 5 |
-| `tlo-neutralne-jasne.png` | jasne, spokojne tło bez tekstu, kwadratowe | zadania 3, 7 |
-| `tlo-neutralne-ciemne.png` | ciemne tło bez tekstu, kwadratowe | zadanie 7 |
-| `zdjecie-do-edycji.jpg` | przedmiot lub budynek na kontrastowym tle | zadanie 4 |
-| `porownanie-stylow.png` | ten sam opis w 3 stylach, zestawione obok siebie | zadanie 2 (pokaz) |
+## Jak używać
 
-Nazwy są propozycją – ważne, żeby z nazwy pliku było widać, do czego służy.
+1. W Designerze otwórz projekt i wybierz wstawienie własnego obrazu
+   (**Upload** / **Prześlij**).
+2. Wskaż plik z tego folderu.
+3. Dodaj tekst polem tekstowym, dopasuj kolory – **te operacje nie zużywają
+   kredytów AI**.
 
-## Zasady doboru
+## Ważne: czym te pliki są, a czym nie są
 
-- **Żadnych rozpoznawalnych osób** – ani na zdjęciach własnych, ani na
-  grafikach generowanych. Uczestnicy będą te pliki edytować i pobierać,
-  a kwestię wizerunku omawia [zadanie 6](../06-prawa-i-oznaczanie-tresci-ai.md).
-- **Tła bez napisów** – tekst uczestnicy dodają sami polem tekstowym.
-- Rozdzielczość co najmniej 1024×1024 px, żeby dało się z nich zrobić
-  także plakat A4 w [zadaniu 3](../03-plakat-z-szablonu.md).
-- Zachowaj informację, że pliki powstały z użyciem AI – to materiał
-  poglądowy dla ćwiczenia z oznaczania treści w zadaniu 6.
+- To **grafiki przygotowane na potrzeby warsztatu**, nie obrazy
+  wygenerowane przez AI. Można ich używać i modyfikować dowolnie w ramach
+  tego programu szkoleniowego.
+- **Nie nadają się** do pokazania, „jak wygląda wynik z generatora AI" ani
+  do porównywania stylów w [zadaniu 2](../02-jak-pisac-opisy-obrazow.md).
+  Do części pokazowej tamtego zadania prowadzący musi przygotować
+  **własne, prawdziwe generowania** z Designera – najlepiej dzień przed
+  szkoleniem, ze swojego konta.
+- Ponieważ nie są tworzone przez AI, **nie wymagają oznaczania** jako treść
+  wygenerowana przez AI (zob. [zadanie 6](../06-prawa-i-oznaczanie-tresci-ai.md)).
+  Jeśli dołożysz do projektu obraz z generatora, obowiązek oznaczenia
+  dotyczy już całości materiału.
 
-## Jak udostępnić uczestnikom
+## Co warto tu dorzucić przed szkoleniem
 
-Wystarczy wspólny folder w chmurze albo pendrive puszczony po sali. Przy
-20 osobach pobierających jednocześnie z sieci gościnnej pendrive bywa
-szybszy.
+- 3 warianty tego samego opisu w różnych stylach (fotografia / ilustracja
+  wektorowa / akwarela) – do pokazu w zadaniu 2.
+- Przykład nieudanego napisu wygenerowanego przez AI (z przekręconymi
+  literami) – do zadania 7, jako materiał porównawczy, gdyby uczestnikom
+  zabrakło kredytów na krok 2.
