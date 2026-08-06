@@ -3,10 +3,14 @@
 **Cel:** przygotować z jednego projektu zestaw materiałów w różnych formatach,
 zachowując spójny wygląd.
 **Poziom:** średniozaawansowany
+**Budżet:** 0 kredytów AI – całe zadanie opiera się na zwykłych funkcjach
+edytora. Zrobisz je nawet z pustą pulą kredytów.
 
 ## Materiały
 
-Plakat lub post z [zadania 3](03-plakat-z-szablonu.md).
+Plakat lub post z [zadania 3](03-plakat-z-szablonu.md). Jeśli nie masz
+własnego projektu, weź dowolny gotowy materiał z folderu
+[`materialy/`](materialy/) – zadanie dotyczy układu, nie generowania.
 
 ## Kroki
 

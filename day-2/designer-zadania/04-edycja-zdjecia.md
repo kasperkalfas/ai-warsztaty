@@ -3,6 +3,15 @@
 **Cel:** poprawić istniejące zdjęcie narzędziami AI – usunąć tło, wymazać
 niepotrzebny element, przyciąć kadr.
 **Poziom:** średniozaawansowany
+**Budżet:** 2–3 kredyty AI (usunięcie tła, wymazanie obiektu, ewentualnie
+wygenerowanie nowego tła). Kadrowanie jest darmowe.
+
+> **Zanim zaczniesz – sprawdź stan kredytów.** To najdroższe zadanie
+> w zestawie. Jeśli po zadaniach 1–3 zostało Ci mniej niż 3 kredyty, zrób
+> tylko punkt 2 (usuwanie tła) i przejdź dalej – wymazywanie obiektów
+> obejrzysz u prowadzącego. Zadania [05](05-seria-materialow-i-formaty.md)
+> i [06](06-prawa-i-oznaczanie-tresci-ai.md) nie wymagają żadnych kredytów,
+> więc na pewno je wykonasz.
 
 ## Materiały
 
@@ -17,8 +26,8 @@ niepotrzebny element, przyciąć kadr.
    obraz**) i wgraj swoje zdjęcie.
 2. Użyj **usuwania tła** (Remove background). Sprawdź krawędzie – włosy,
    liście, cienkie elementy zwykle sprawiają najwięcej problemów.
-3. Podstaw nowe tło: jednolity kolor albo obraz wygenerowany opisem
-   tekstowym.
+3. Podstaw nowe tło: **jednolity kolor** (0 kredytów – tak zrób, jeśli
+   oszczędzasz pulę) albo obraz wygenerowany opisem tekstowym (1 kredyt).
 4. Użyj **wymazywania obiektu** (Erase / Generative erase) i usuń jeden
    niepotrzebny element (kosz, znak drogowy, przypadkowy przedmiot).
    Przyjrzyj się, czym AI wypełniła to miejsce.
@@ -38,6 +47,9 @@ niepotrzebny element, przyciąć kadr.
   widocznej. Wgrywanie cudzych zdjęć do narzędzia AI to dodatkowe
   przetwarzanie danych – bez zgody nie rób tego (temat wraca w Bloku 2:
   Regulacje AI i w [zadaniu 6](06-prawa-i-oznaczanie-tresci-ai.md)).
+- Każda nieudana próba wymazania obiektu **też kosztuje kredyt**. Zanim
+  klikniesz, zaznacz obszar dokładnie – poprawianie "na oko" i ponawianie
+  potrafi zjeść resztę miesięcznej puli w minutę.
 - Usuwanie tła działa najlepiej, gdy obiekt wyraźnie odcina się od tła.
   Zdjęcie ciemnej kurtki na ciemnym tle będzie wycięte źle – szybciej jest
   zrobić lepsze zdjęcie niż walczyć z narzędziem.

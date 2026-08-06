@@ -50,6 +50,10 @@ obrazu z zadania 1 lub 2
   widzących.
 - Do druku wybieraj **PDF**, do publikacji w sieci **PNG/JPG**. Plik
   pobrany w rozmiarze posta będzie nieostry po powiększeniu na A4.
+- Edycja tekstu, zmiana kolorów, przesuwanie elementów i pobieranie pliku
+  **nie zużywają kredytów AI** – to zwykłe funkcje edytora. Kredyt zabiera
+  tylko akcja opisana jako generowanie lub przetwarzanie obrazu przez AI.
+  Na tym zadaniu możesz więc pracować dowolnie długo.
 
 ## Notatki własne
 

@@ -11,17 +11,38 @@ Warsztaty mają dwa cele:
 
 ## Struktura repozytorium
 
-- `dzien-1/` – materiały pierwszego dnia warsztatów (25 lipca 2026): powitanie i cele
+- `day-1/` – materiały pierwszego dnia warsztatów (25 lipca 2026): powitanie i cele
   programu, podstawy kompetencji cyfrowych (e-mail, chmura, ochrona danych osobowych),
   wprowadzenie do AI i unijnego AI Act. Zawiera prezentacje `dzien1_prezentacja.pptx`,
   `Kompetencje-cyfrowe.pptx` oraz `AI.pptx`.
 - `day-2/` – materiały drugiego dnia warsztatów: narzędzia AI w praktyce. Zawiera
-  prezentację `day2-ai-tools.pptx`, jej wersję ćwiczeniową `day2-ai-tools-practise.pptx`
-  oraz eksport `day2-ai-tools.pdf`.
+  prezentację wprowadzającą `day2-ai-intro.pptx`, wersję ćwiczeniową
+  `day2-ai-tools-practise.pptx`, eksport `day2-ai-tools.pdf` oraz **zadania
+  praktyczne do każdego narzędzia** (zob. tabela poniżej).
 - `logo/` – grafiki i logotypy używane w materiałach programu.
 
 Kolejne dni/moduły (programowanie, narzędzia graficzne) będą dodawane jako osobne foldery
 w miarę rozwoju programu.
+
+### Zadania praktyczne – Dzień 2
+
+Każdy folder zawiera własny `README.md` z instrukcją logowania do narzędzia,
+spisem zadań i wskazówką, które z nich wykonać na żywo, a które zostawić
+uczestnikom do pracy własnej. **Wszystkie narzędzia są darmowe.**
+
+| Folder | Narzędzie | Zakres zadań |
+|--------|-----------|--------------|
+| [`day-2/notebooklm-zadania/`](day-2/notebooklm-zadania/) | NotebookLM | wgrywanie źródeł, cytowania, podcast, mapa myśli, notatnik szkoleniowy |
+| [`day-2/perplexity-zadania/`](day-2/perplexity-zadania/) | Perplexity | wyszukiwanie z cytowaniami, udostępnianie wątku, zapytania głosowe |
+| [`day-2/elevenlabs-zadania/`](day-2/elevenlabs-zadania/) | ElevenLabs | synteza mowy, ustawienia głosu, etyka i deepfake głosowy |
+| [`day-2/claude-zadania/`](day-2/claude-zadania/) | Claude | formuła P.K.Z.O., plany i limity, Connections, Skills, style pisania |
+| [`day-2/gemini-zadania/`](day-2/gemini-zadania/) | Gemini + CLI | rozmowa i pliki, modele, Gemy, instalacja i praca w terminalu |
+| [`day-2/designer-zadania/`](day-2/designer-zadania/) | Microsoft Designer | prompty graficzne, plakat z szablonu, edycja zdjęcia, prawa i oznaczanie AI |
+
+Materiały źródłowe do ćwiczeń (zdrowy tryb życia, ergonomia pracy, przykładowy
+regulamin BHP) znajdują się w
+[`day-2/notebooklm-zadania/materialy/`](day-2/notebooklm-zadania/materialy/) i są
+wykorzystywane także przez zadania z pozostałych narzędzi.
 
 ## Harmonogram szkolenia
 

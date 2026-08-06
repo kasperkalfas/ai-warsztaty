@@ -80,6 +80,36 @@ komputerze współdzielonym (instrukcja w
 10. [10 – Style pisania](10-style-pisania.md) – ten sam temat napisany
     w różnych stylach.
 
+## Jak wykorzystać podczas szkolenia
+
+Slot na Claude w agendzie trwa 45 minut, a zadań jest dziesięć – nie da się
+ich przerobić wszystkich na żywo i nie taki jest cel. Zalecany podział:
+
+**Na żywo (45 min):**
+
+- **Zadanie 1 – formuła P.K.Z.O.** (ok. 15 min) – podstawa, z której
+  korzystają wszystkie pozostałe zadania. Nie pomijaj.
+- **Zadanie 3 – Connections i Gmail** (ok. 20 min) – najbardziej efektowne
+  ćwiczenie, pokazuje AI wykonujące realną pracę na własnych danych.
+  Zawiera też zasady bezpieczeństwa i instrukcję odłączania usług, które
+  warto omówić wspólnie, a nie zostawiać do samodzielnego przeczytania.
+- **Zadanie 2 – plany i limity** (ok. 10 min) – krótkie omówienie, co jest
+  darmowe; dobrze zamyka blok i odpowiada na pytania, które i tak padną.
+
+**Praca własna uczestników (po szkoleniu):**
+
+- Zadania 4–7 (Kalendarz, Dysk, podróże, Microsoft Learn) – ta sama
+  mechanika co zadanie 3, każde na innej usłudze. Kto zrozumiał zadanie 3,
+  poradzi sobie samodzielnie.
+- Zadania 8–9 (Skills) – wymagają pobierania plików i pracy z archiwami
+  ZIP, co na sali potrafi zająć nieprzewidywalnie dużo czasu.
+- Zadanie 10 (style pisania) – krótkie, dobre jako rozgrzewka na start
+  kolejnych zajęć.
+
+**Dla wolontariuszy-multiplikatorów:** zadania 8 i 9 (Skills) najlepiej
+nadają się do poprowadzenia jako osobne, dłuższe zajęcia – pokazują, jak
+zapisać własny sposób pracy w formie wielokrotnego użytku.
+
 ## Jak korzystać z tych plików
 
 Każdy plik `.md` można otworzyć w dowolnym edytorze tekstu lub czytniku
