@@ -11,8 +11,6 @@ i wgranie źródeł.
 2. Kliknij **"Nowy notatnik"** (New notebook).
 3. Wgraj 2–3 źródła, np.:
    - plik PDF z folderu [`materialy/`](materialy/) lub z materiałów Dnia 1
-     (uwaga: NotebookLM nie przyjmuje plików PPTX – prezentację najpierw
-     przekonwertuj do PDF lub Google Slides),
    - link do strony internetowej,
    - wklejony tekst lub notatkę.
 4. Poczekaj, aż NotebookLM przeanalizuje źródła (widoczne w panelu po lewej).
