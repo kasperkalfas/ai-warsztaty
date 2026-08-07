@@ -65,9 +65,6 @@ i tygodniowych, bez sztywnej liczby tokenów) albo płatnego klucza API
 - Darmowy plan w zupełności wystarcza do zadań z tego warsztatu (czat,
   analiza dokumentów, pisanie) – limit dotyczy liczby wiadomości, nie
   funkcji.
-- Claude Code to osobne narzędzie (do programowania w terminalu) –
-  uczestnicy zetkną się z nim dopiero w Dniu 5 i Dniu 6 programu
-  ("Podstawy Programowania", "Systemy AI, Agenci z n8n").
 - Limity i ceny zmieniają się – warto zawsze sprawdzić aktualny stan na
   [claude.ai/pricing](https://claude.ai/pricing) przed szkoleniem.
 
