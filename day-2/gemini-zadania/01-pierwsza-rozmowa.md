@@ -53,7 +53,7 @@ dlatego zaczynamy od przeglądarki, a do CLI wracamy w
   (w aplikacji mobilnej) głos.
 - Jeśli jesteś zalogowany/a kontem Google używanym też do Gmaila i Dysku,
   w ustawieniach zobaczysz opcję włączenia dostępu do "aplikacji Google"
-  (Gmail, Kalendarz, Dysk) – to wracamy do niej w zadaniu 6.
+  (Gmail, Kalendarz, Dysk) – wracamy do niej w [zadaniu 7](07-inne-mozliwosci.md).
 - Porównaj odpowiedź Gemini z odpowiedzią Claude na to samo pytanie – różne
   modele AI mają różny "styl": długość odpowiedzi, ton, sposób
   formatowania. Żaden nie jest uniwersalnie "lepszy" – warto znać kilka

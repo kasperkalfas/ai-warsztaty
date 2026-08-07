@@ -6,7 +6,7 @@ w rozmowę dwóch "prowadzących" (podcast) do odsłuchania.
 
 ## Materiały
 
-Utworz nowy notatnik wgraj pliki z folderu
+Utwórz nowy notatnik i wgraj pliki z folderu
 [`materialy/`](materialy/). Możesz też użyć własnego notatnika z
 wcześniejszych zadań.
 

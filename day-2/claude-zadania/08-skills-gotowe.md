@@ -95,9 +95,9 @@ Skills się nie uruchomią.
 - **Skille uruchamiają się automatycznie.** Claude sam ocenia, czy dany
   skill pasuje do zadania, na podstawie jego opisu. Nie musisz pisać
   "użyj skilla X" – wystarczy dobrze opisać zadanie.
-- Skille z repozytorium Anthropic w folderze `document-skills/` to
-  **migawki w czasie**, nieaktualizowane na bieżąco – ich wersje są już
-  wbudowane w Claude. Traktuj je jako przykłady do nauki, nie jako
+- Kopie skilli dokumentowych (`docx`, `pptx`, `xlsx`, `pdf`) w folderze
+  `skills/` repozytorium to **migawki w czasie**, nieaktualizowane na
+  bieżąco – ich wersje są już wbudowane w Claude. Traktuj je jako przykłady do nauki, nie jako
   najnowszą wersję.
 - **Instaluj tylko skille ze źródeł, którym ufasz.** Skill może zawierać
   skrypty wykonywane w środowisku Claude. Repozytorium `anthropics/skills`

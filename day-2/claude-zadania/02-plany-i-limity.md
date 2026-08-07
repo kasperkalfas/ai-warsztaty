@@ -23,8 +23,9 @@ programistów) i dlaczego nie jest dostępne za darmo.
 
 **Objęte:**
 
-- Czat na web/iOS/Android/desktop, dostęp do modeli (w tym Opus, Sonnet,
-  Haiku) – ale tylko **50% tygodniowych limitów**, jakie mają płatne plany.
+- Czat na web/iOS/Android/desktop, dostęp do modeli **Sonnet i Haiku**
+  (najmocniejszy model Opus wymaga planu płatnego) – z wyraźnie niższymi
+  limitami niż w planach płatnych.
 - Okno kontekstu: **200k tokenów** (tyle samo co w planach płatnych).
 - Web search, pamięć między rozmowami, tworzenie plików i wykonywanie
   kodu, generowanie treści/wizualizacji danych.
@@ -34,7 +35,7 @@ programistów) i dlaczego nie jest dostępne za darmo.
 
 **Limity liczby wiadomości:** Anthropic nie podaje sztywnej liczby (np.
 "X wiadomości dziennie") – limity są dynamiczne i zależą od obciążenia
-serwerów. Oficjalnie to 50% tego, co dostaje płatny plan Pro; limit
+serwerów. Plan Pro ma limity wielokrotnie wyższe niż plan darmowy; limit
 odnawia się co kilka godzin.
 
 **Czego NIE ma w darmowym planie:** dostępu do Claude Code CLI – to
@@ -55,8 +56,9 @@ Orientacyjny koszt dla firm (dane Anthropic): ok. **13 USD/dzień** i
 30 USD/dzień) – to zużycie tokenów API, nie darmowy limit.
 
 **Podsumowanie:** Claude Code nie działa w ogóle na darmowym koncie –
-wymaga minimum planu Pro (limit 5h/tydzień, bez sztywnej liczby tokenów)
-albo płatnego klucza API (bez górnego limitu, płatność za tokeny).
+wymaga minimum planu Pro (limity odnawiane w oknach 5-godzinnych
+i tygodniowych, bez sztywnej liczby tokenów) albo płatnego klucza API
+(bez górnego limitu, płatność za tokeny).
 
 ## Na co zwrócić uwagę
 

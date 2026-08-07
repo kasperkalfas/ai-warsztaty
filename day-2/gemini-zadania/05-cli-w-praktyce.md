@@ -13,11 +13,11 @@ Działające Gemini CLI z [zadania 4](04-cli-instalacja.md).
 
 1. W terminalu przejdź do folderu z materiałami z zadań NotebookLM, np.
    `notebooklm-zadania/materialy/` (albo dowolnego innego folderu z
-   plikami tekstowymi, do którego masz dostęp).
+   dokumentami, do którego masz dostęp).
 2. Poproś Gemini CLI o podsumowanie zawartości jednego z plików:
 
    > Podsumuj w 5 punktach, o czym jest plik
-   > 01-zdrowy-tryb-zycia.md.
+   > 01-zdrowy-tryb-zycia.pdf.
 
 3. Poproś o wygenerowanie nowego pliku na podstawie rozmowy, np.:
 
