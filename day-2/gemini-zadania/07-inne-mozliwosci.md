@@ -19,27 +19,9 @@ Konto Gemini z [zadania 1](01-pierwsza-rozmowa.md).
    Sprawdź, czy możesz poprosić o modyfikację wygenerowanego obrazu (np.
    zmianę koloru albo stylu) w tej samej rozmowie.
 
-2. **Canvas.** Poproś Gemini o stworzenie krótkiego dokumentu lub
-   fragmentu kodu w trybie Canvas (edytowalny panel obok rozmowy), np.:
 
-   > W trybie Canvas przygotuj szablon krótkiego ogłoszenia o naborze
-   > wolontariuszy.
 
-   Spróbuj ręcznie zmienić fragment tekstu w Canvasie i poproś Gemini o
-   dopracowanie reszty na podstawie Twojej zmiany.
-
-3. **Integracja z aplikacjami Google.** W ustawieniach Gemini sprawdź
-   opcję dostępu do "aplikacji Google" (Gmail, Kalendarz, Dysk). Jeśli
-   chcesz i czujesz się z tym komfortowo, włącz ją na własnym koncie i
-   zadaj pytanie odnoszące się do Twojej skrzynki lub kalendarza, np.:
-
-   > Sprawdź w moim kalendarzu, czy mam coś zaplanowane jutro po
-   > południu.
-
-   To działa podobnie do funkcji Connections w Claude z wcześniejszego
-   zadania.
-
-4. **(Opcjonalnie) Deep Research.** Jeśli ta funkcja jest dostępna na
+2. **(Opcjonalnie) Deep Research.** Jeśli ta funkcja jest dostępna na
    Twoim koncie, zadaj bardziej złożone pytanie badawcze i zobacz, jak
    Gemini planuje i przeszukuje wiele źródeł, zanim przygotuje raport.
 
@@ -52,9 +34,7 @@ Konto Gemini z [zadania 1](01-pierwsza-rozmowa.md).
 - Dostępność niektórych funkcji (Deep Research, niektóre modele obrazów)
   może się różnić w zależności od konta, regionu i aktualnej oferty
   Google – jeśli czegoś nie widzisz, to normalne.
-- Włączanie integracji z Gmailem/Kalendarzem/Dyskiem jest opcjonalne –
-  rób to tylko na własnym, prywatnym koncie i tylko jeśli czujesz się z
-  tym komfortowo.
+
 
 ## Notatki własne
 
