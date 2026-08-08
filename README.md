@@ -52,7 +52,7 @@ Podróż po AI i kompetencjach cyfrowych – pełny program obejmuje 8 dni szkol
 |---------|------------|---------------------------------------------------------------------------|---------------------------------------------------|
 | Dzień 1 | 25.07.2026 | Podstawy + AI Entry                                                       | Wprowadzenie do technologii i AI.                  |
 | Dzień 2 | 01.08.2026 | Regulacje AI, Bezpieczeństwo AI, Narzędzia AI                             | Prawo, bezpieczeństwo i narzędzia AI.              |
-| Dzień 3 | 12.09.2026 | Grafika AI i Wystąpienia Publiczne                                        | AI w wizualizacjach i prezentacjach.               |
+| Dzień 3 | 05.09.2026 | Grafika AI i Wystąpienia Publiczne                                        | AI w wizualizacjach i prezentacjach.               |
 | Dzień 4 | 19.09.2026 | Dźwięk, Filmy, Montaż z AI, Podstawianie Własnego Głosu AI                | AI w multimediach i głosie.                        |
 | Dzień 5 | 26.09.2026 | Podstawy Programowania: Python, HTML, SQL, Hosting                        | Języki programowania i internet.                   |
 | Dzień 6 | 17.10.2026 | Systemy AI, Agenci z n8n, RAG z n8n                                       | Zaawansowane systemy AI i automatyzacja.           |
