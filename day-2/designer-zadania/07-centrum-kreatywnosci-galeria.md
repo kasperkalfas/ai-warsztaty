@@ -55,6 +55,35 @@ albo rozdzielcie po kolei:
    szczęścia, tylko ograniczenia modelu – kolejne próby zużyją kredyty
    i skończą się podobnie.
 
+## Dlaczego AI przekręca litery?
+
+Warto to zrozumieć, bo wtedy przestaje dziwić:
+
+- **Model maluje piksele, nie pisze liter.** Jak pokazywał film z
+  [zadania 0](00-jak-dziala-generowanie-obrazow.md), obraz powstaje przez
+  stopniowe "odszumianie" losowych pikseli. Model nie ma pojęcia "litera Ś" –
+  ma tylko wyuczone wrażenie, **jak zwykle wygląda coś, co przypomina
+  napis**. Rysuje więc kształty przypominające pismo, tak jak rysuje kształty
+  przypominające drzewo. Dla drzewa "mniej więcej" wystarczy, dla liter nie –
+  każdy najmniejszy błąd od razu widać.
+- **Opis jest rozumiany jako całość, nie litera po literze.** Zanim model
+  zacznie malować, Twój opis zostaje zamieniony na ogólne "znaczenie"
+  (skompresowaną reprezentację). W tej kompresji dokładna kolejność znaków
+  w napisie często się gubi – zostaje informacja "duży napis na plakacie",
+  a nie precyzyjna sekwencja C-E-N-T-R-U-M.
+- **Napis to jedno – ale poprawny napis to zupełnie co innego.** W milionach
+  obrazów treningowych model widział mnóstwo plakatów i szyldów, ale uczył
+  się ich wyglądu, nie ortografii. Dlatego wynik wygląda "jak napis"
+  z daleka, a z bliska rozpada się na wymyślone znaki.
+- **Polskie znaki mają najgorzej.** Ogonki i kreski (ą, ć, ś, ż) występują
+  w danych treningowych wielokrotnie rzadziej niż tekst angielski, więc
+  model "widział" ich za mało, by je pewnie odtworzyć. Stąd **Ś** gubiące
+  kreskę częściej niż litery łacińskie.
+
+Nowsze modele radzą sobie z krótkimi angielskimi napisami coraz lepiej, ale
+zasada pozostaje: **generator to malarz, nie maszyna do pisania** – dlatego
+tekst nakładamy polem tekstowym, co zrobimy w następnym kroku.
+
 ## Krok 3: Zrób to porządnie (0–1 kredytów)
 
 4. Wygeneruj (lub wykorzystaj obraz z kroku 2 albo z

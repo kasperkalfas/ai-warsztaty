@@ -82,13 +82,19 @@ może mieć wyłączone funkcje AI. Na warsztaty pewniejsze jest konto osobiste.
 5. [05 – Spójna seria materiałów](05-seria-materialow-i-formaty.md) – jeden
    projekt w trzech formatach, stałe elementy identyfikacji, test kontrastu.
 6. [06 – Prawa i oznaczanie treści AI](06-prawa-i-oznaczanie-tresci-ai.md) –
-   Content Credentials (C2PA), formuła oznaczania materiałów, wizerunek,
-   logo i prawo autorskie (zadanie dyskusyjne, bez generowania).
+   Content Credentials (C2PA) i trzy sposoby ich sprawdzania: weryfikator
+   online, ręcznie w Windows (Właściwości pliku, jednoliniowa komenda
+   PowerShell wykrywająca manifest C2PA) oraz przez aplikację Gemini
+   (SynthID + C2PA, z omówieniem ograniczeń). Do tego formuła oznaczania
+   materiałów, wizerunek, logo i prawo autorskie (zadanie dyskusyjne,
+   bez generowania).
 7. [07 – „CENTRUM KREATYWNOŚCI" – galeria stylów](07-centrum-kreatywnosci-galeria.md) –
    zadanie zespołowe: każdy tworzy grafikę z tym samym napisem w innym
-   stylu, a następnie oglądamy wszystkie prace obok siebie. Pokazuje
-   przy okazji, dlaczego tekst dodaje się polem tekstowym, a nie
-   generowaniem.
+   stylu, a następnie oglądamy wszystkie prace obok siebie. Zawiera
+   sekcję wyjaśniającą, **dlaczego** generatory przekręcają litery
+   (model maluje kształty przypominające napis, nie pisze; polskie znaki
+   są w danych treningowych rzadkie) – i wniosek praktyczny: tekst
+   dodaje się polem tekstowym, a nie generowaniem.
 
 ## Jak wykorzystać podczas szkolenia
 
