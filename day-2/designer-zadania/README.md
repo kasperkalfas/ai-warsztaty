@@ -34,6 +34,7 @@ Zadania są zaplanowane pod ten limit:
 
 | Zadanie | Kredyty |
 |---------|---------|
+| 00 – film: jak działa generowanie | 0 |
 | 01 – konto i pierwsza grafika | 2 |
 | 02 – opisy obrazów           | 3 (reszta jako pokaz prowadzącego) |
 | 03 – plakat z szablonu       | 0–1 |
@@ -63,6 +64,10 @@ może mieć wyłączone funkcje AI. Na warsztaty pewniejsze jest konto osobiste.
 
 ## Spis zadań
 
+0. [00 – Jak działa generowanie obrazów AI (film)](00-jak-dziala-generowanie-obrazow.md) –
+   krótki film „How Stable Diffusion Works" (ok. 1 min, YouTube Shorts)
+   pokazujący, jak modele dyfuzyjne tworzą obraz z szumu na podstawie
+   opisu tekstowego. Bez generowania – 0 kredytów.
 1. [01 – Konto Microsoft i pierwsza grafika](01-konto-microsoft-i-pierwsza-grafika.md) –
    zakładanie darmowego konta krok po kroku, logowanie do Designera,
    pierwszy obraz z opisu, porównanie opisu polskiego z angielskim.
@@ -88,7 +93,9 @@ może mieć wyłączone funkcje AI. Na warsztaty pewniejsze jest konto osobiste.
 ## Jak wykorzystać podczas szkolenia
 
 Slot na Microsoft Designer trwa 30 minut – na żywo mieszczą się **zadania 1–3**
-(konto, opis obrazu, plakat). Jeśli część uczestników ma już konto Microsoft,
+(konto, opis obrazu, plakat). **Zadanie 0** (film, ok. 1 minuta) najlepiej
+puścić wspólnie na rzutniku jako otwarcie slotu albo wysłać uczestnikom
+mailem razem z zadaniem 1 przed szkoleniem. Jeśli część uczestników ma już konto Microsoft,
 zadanie 1 skróci się do kilku minut i zostanie czas na zadanie 4.
 
 Zadania 4–5 warto zostawić do samodzielnej pracy między dniami szkoleniowymi –

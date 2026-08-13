@@ -67,22 +67,16 @@ czytaj ekran uprawnień, a po szkoleniu odłącz usługi, jeśli pracujesz na
 komputerze współdzielonym (instrukcja w
 [zadaniu 3](03-connections-gmail.md#jak-odłączyć-usługę)).
 
-### Skills – gotowe umiejętności
+### Skills – własne umiejętności
 
-8. [08 – Skills z repozytorium Anthropic](08-skills-gotowe.md) – włączenie
-   gotowych skilli (docx, pptx, xlsx, pdf), instalacja skilla z
-   [github.com/anthropics/skills](https://github.com/anthropics/skills)
-   i wykorzystanie go do realnego zadania. **Działa na darmowym planie**,
+8. [08 – Własny skill: posty na LinkedIn](08-skill-wlasny-linkedin.md) –
+   budowa własnego skilla od zera (formuły AIDA i 5W) na przykładzie
+   marki osobistej fryzjera premium. **Działa na darmowym planie**,
    wymaga włączonego wykonywania kodu w Ustawieniach.
-9. [09 – Gotowy skill marketingowy z internetu](09-skill-marketer.md) –
-   jak sprawdzić skill przed instalacją, wgrać go z GitHuba i wykorzystać
-   do zaplanowania kampanii naboru wolontariuszy.
-10. [10 – Style pisania](10-style-pisania.md) – ten sam temat napisany
-    w różnych stylach.
 
 ## Jak wykorzystać podczas szkolenia
 
-Slot na Claude w agendzie trwa 45 minut, a zadań jest dziesięć – nie da się
+Slot na Claude w agendzie trwa 45 minut, a zadań jest osiem – nie da się
 ich przerobić wszystkich na żywo i nie taki jest cel. Zalecany podział:
 
 **Na żywo (45 min):**
@@ -101,13 +95,11 @@ ich przerobić wszystkich na żywo i nie taki jest cel. Zalecany podział:
 - Zadania 4–7 (Kalendarz, Dysk, podróże, Microsoft Learn) – ta sama
   mechanika co zadanie 3, każde na innej usłudze. Kto zrozumiał zadanie 3,
   poradzi sobie samodzielnie.
-- Zadania 8–9 (Skills) – wymagają pobierania plików i pracy z archiwami
-  ZIP, co na sali potrafi zająć nieprzewidywalnie dużo czasu.
-- Zadanie 10 (style pisania) – krótkie, dobre jako rozgrzewka na start
-  kolejnych zajęć.
+- Zadanie 8 (własny skill) – wymaga pracy z plikami i archiwum ZIP, co
+  na sali potrafi zająć nieprzewidywalnie dużo czasu.
 
-**Dla wolontariuszy-multiplikatorów:** zadania 8 i 9 (Skills) najlepiej
-nadają się do poprowadzenia jako osobne, dłuższe zajęcia – pokazują, jak
+**Dla wolontariuszy-multiplikatorów:** zadanie 8 (własny skill) najlepiej
+nadaje się do poprowadzenia jako osobne, dłuższe zajęcia – pokazuje, jak
 zapisać własny sposób pracy w formie wielokrotnego użytku.
 
 ## Jak korzystać z tych plików
