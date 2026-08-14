@@ -84,6 +84,20 @@ Podróż po AI i kompetencjach cyfrowych – pełny program obejmuje 8 dni szkol
 | Dzień 7 | 24.10.2026 | Baza Wiedzy w Obsłudze, Formuła MD, Warsztaty z Bielik AI                 | Zarządzanie wiedzą i Bielik AI.                    |
 | Dzień 8 | 07.11.2026 | Podsumowanie, Przekazanie Materiałów i Grupowy Projekt Końcowy            | Podsumowanie i projekt końcowy.                    |
 
+## Agenda – Dzień 1
+
+| Godziny       | Blok                             |
+|---------------|----------------------------------|
+| 8:00 – 9:30   | Blok 1: Powitanie i cele programu — przedstawienie, omówienie programu, ćwiczenie „speed dating" |
+| 9:30 – 10:15  | Blok 2 (część 1): Podstawy kompetencji cyfrowych — e-mail, chmura obliczeniowa, ochrona danych |
+| 10:15 – 10:25 | Przerwa kawowa                   |
+| 10:25 – 11:10 | Blok 2 (część 2): Podstawy kompetencji cyfrowych — kontynuacja ćwiczeń praktycznych |
+| 11:10 – 12:40 | Blok 3 (część 1): Wprowadzenie do AI — czym jest sztuczna inteligencja, jak działa i jak z niej korzystać |
+| 12:40 – 12:55 | Przerwa obiadowa                 |
+| 12:55 – 14:25 | Blok 3 (część 2): Wprowadzenie do AI — regulacje prawne UE (AI Act) i odpowiedzialne wykorzystanie AI |
+
+Szczegóły materiałów do każdego bloku w [`day-1/README.md`](day-1/README.md).
+
 ## Agenda – Dzień 2
 
 | Godziny       | Punkt programu                  |
