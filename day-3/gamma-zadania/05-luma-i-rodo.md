@@ -70,8 +70,6 @@ Polityka prywatności bloga/newslettera, 14 ponumerowanych punktów, obejmująca
   social media.
 - **Podstawa prawna** — zgodność z ustawą o ochronie danych osobowych oraz Rozporządzeniem (UE)
   2016/679 (RODO).
-- **Okres przechowywania** — do momentu wypisania się (newsletter), do przedawnienia roszczeń +
-  okres rękojmi (zamówienia), faktury VAT 5 lat.
 - **Prawa użytkownika** — dostęp, sprostowanie, usunięcie, ograniczenie przetwarzania,
   przenoszenie danych, cofnięcie zgody, skarga do Prezesa UODO.
 - **Cookies** — do jakich celów, jak je ograniczyć w przeglądarce.
