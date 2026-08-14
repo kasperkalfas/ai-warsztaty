@@ -1,6 +1,6 @@
 # Gotowy prompt: prezentacja "Zasady dobrej prezentacji"
 
-> Konspekt na prezentację łączącą teorię storytellingu (`kozminski-cdo-storytelling.md`) z **prawdziwymi technikami** wyciągniętymi z rzeczywistych prezentacji Kaspra Kalfasa (`prezentacje_kasper/`). To nie jest lista abstrakcyjnych zasad — każda zasada ma pod spodem konkretny przykład slajdu, który można pokazać na żywo z odpowiedniego PDF-a.
+> Konspekt na prezentację łączącą teorię storytellingu z **prawdziwymi technikami** wyciągniętymi z rzeczywistych prezentacji Kaspra Kalfasa (`prezentacje_kasper/`). To nie jest lista abstrakcyjnych zasad — każda zasada ma pod spodem konkretny przykład slajdu, który można pokazać na żywo z odpowiedniego PDF-a.
 >
 > Ton: **popularno-naukowy**, nie branżowo-korporacyjny. Zasady są uniwersalne — działają niezależnie od tego, czy mówisz o danych, akcji charytatywnej, hobby czy nowym pomyśle. Przykłady źródłowe akurat dotyczą świata danych i chmury, ale w konspekcie opisujemy je w prostym, ogólnym języku, a nie żargonem branżowym.
 >
@@ -11,7 +11,7 @@
 > - `prezentacja_dla_szefa.pdf` — raport postępu dla przełożonego
 > - `prezentacja-branzowa.pdf` / `prezentacja-kasper.pdf` — talk techniczny na konferencji branżowej (identyczne pliki)
 >
-> Powiązane: `rodzaje-prezentacji.md` (typy prezentacji), `gamma-app-wprowadzenie.md`, `plan-dnia-storytelling.md`.
+> Powiązane: `rodzaje-prezentacji.md` (typy prezentacji), `../cwiczenie-3-scenariusze.md`.
 
 ---
 

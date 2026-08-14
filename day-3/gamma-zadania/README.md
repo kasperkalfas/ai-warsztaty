@@ -1,15 +1,13 @@
 # Zadania rozgrzewkowe: Gamma.app
 
 Zestaw pięciu krótkich ćwiczeń praktycznych do dnia storytellingu
-(Dzień 3 — zob. `../plan-dnia-storytelling.md`). Zanim wolontariusze
-zabiorą się za właściwe ćwiczenie (DataPOV + framework 5 kroków → gotowa
-prezentacja przekonująca do decyzji w 5 minut), cztery pierwsze zadania
-oswajają samo narzędzie: logowanie, dwa tryby tworzenia treści, obrazy,
-styl i eksport. Piąte zadanie wychodzi poza Gammę — publikowanie
+(Dzień 3 — zob. `../cwiczenie-3-scenariusze.md`). Zanim wolontariusze
+zabiorą się za właściwe ćwiczenie (wybór jednego z 3 scenariuszy → 10-slajdowa
+prezentacja w Gammie → wystąpienie na żywo w ok. 5 minut), cztery pierwsze
+zadania oswajają samo narzędzie: logowanie, dwa tryby tworzenia treści,
+obrazy, styl i eksport. Piąte zadanie wychodzi poza Gammę — publikowanie
 wydarzenia w Lumie i pisanie klauzuli RODO.
 
-Teoria o samej Gammie (czym jest, jak działa, limity, plusy/minusy) jest
-opisana w [`../materialy/gamma-app-wprowadzenie.md`](../materialy/gamma-app-wprowadzenie.md).
 Gotowy prompt do wygenerowania prezentacji *o samej Gammie* (do pokazania
 na start dnia) jest w [`../materialy/prompt-prezentacja-o-gamma.md`](../materialy/prompt-prezentacja-o-gamma.md).
 
@@ -19,8 +17,7 @@ na start dnia) jest w [`../materialy/prompt-prezentacja-o-gamma.md`](../material
   pełna instrukcja w [zadaniu 1](01-logowanie-i-pierwsza-prezentacja.md).
 - Przeglądarka internetowa i dostęp do [gamma.app](https://gamma.app).
 - Opcjonalnie: własny konspekt storytellingu z dzisiejszego ćwiczenia
-  (zadanie 2) oraz własne zdjęcie do wgrania (zadanie 3) — np. z
-  [`../materialy/zdjecia-prelegent/`](../materialy/zdjecia-prelegent/).
+  (zadanie 2) oraz własne zdjęcie do wgrania z dysku (zadanie 3).
 
 ## Uwaga o limitach — przeczytaj przed szkoleniem
 
@@ -78,11 +75,11 @@ jest konto prywatne (tak samo jak przy Microsoft Designerze z Dnia 2).
 
 Zadania 1–4 to **rozgrzewka** przed właściwym ćwiczeniem dnia — nie
 zastępują go. Dobrze sprawdzają się jako pierwsze 30–40 minut bloku
-poświęconego Gammie, zanim uczestnicy przejdą do pracy nad własnym DataPOV
-i frameworkiem 5 kroków (zob. `../plan-dnia-storytelling.md`, krok 5:
-„Przeniesienie do Gammy"). Zadanie 5 (Luma + RODO) ma inny charakter —
-najlepiej pasuje **po** gotowej prezentacji, jako naturalne rozszerzenie
-kroku 6 („Prezentacje 5-minutowe") o pytanie "co dalej z tą prezentacją".
+poświęconego Gammie, zanim uczestnicy przejdą do wyboru scenariusza i
+przygotowania własnej prezentacji (zob. `../cwiczenie-3-scenariusze.md`).
+Zadanie 5 (Luma + RODO) ma inny charakter — najlepiej pasuje **po** gotowej
+prezentacji, jako naturalne rozszerzenie wystąpień na żywo o pytanie
+"co dalej z tą prezentacją".
 
 Jeśli czasu jest mało, zadania 1–2 są obowiązkowe (logowanie + dwa tryby
 tworzenia treści), a 3–4 można zostawić do samodzielnego wykonania albo

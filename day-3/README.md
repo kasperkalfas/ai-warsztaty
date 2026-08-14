@@ -20,16 +20,11 @@ narzędziem.
 
 | Plik | Do czego służy |
 |------|-----------------|
-| `kozminski-cdo-storytelling.md` (+ PDF) | Źródłowa teoria storytellingu — framework DataPOV, zasada piramidy, 5-etapowa struktura, narzędzia narracyjne (analogia/skala/miejsce w czasie). |
 | `rodzaje-prezentacji.md` | Trzy typy prezentacji — sprzedażowa, konferencyjna/„geek", PR/inspiracyjna — każdy z inną strukturą i celem. Kluczowe dla wyboru scenariusza w `cwiczenie-3-scenariusze.md`. |
-| `gamma-app-wprowadzenie.md` | Czym jest Gamma, jak działa, limity kredytów i planów, plusy/minusy. |
 | `prompt-prezentacja-o-gamma.md` | Gotowy konspekt/prompt do wygenerowania prezentacji „czym jest Gamma" — do pokazania na start dnia. |
 | `prompt-prezentacja-rodzaje-prezentacji.md` | Gotowy konspekt/prompt do wygenerowania prezentacji „Trzy rodzaje prezentacji — który wybrać?". |
 | `prompt-prezentacja-zasady-dobrej-prezentacji.md` | Konspekt łączący teorię storytellingu z prawdziwymi przykładami slajdów z `prezentacje_kasper/`. |
-| `przyklad-prezentacja-pr-kasper.md` | Gotowy, w pełni rozpisany przykład prezentacji PR/inspiracyjnej (typ 3) — wzorzec do pokazania na żywo. |
-| `kasper-kalfas-prezenter.md` | Bio prowadzącego jako prelegenta (wystąpienia, szkolenia korporacyjne, Mafia Danych, Eskadra Bielika). |
 | `prezentacje_kasper/` | Sześć prawdziwych PDF-ów prezentacji Kaspra — źródło konkretnych przykładów slajdów cytowanych w promptach powyżej. |
-| `zdjecia-prelegent/` | Zdjęcia z realnych wystąpień (LLM Day Warsaw, DevOps/SysOps Wrocław Meetup, warsztaty Eskadry Bielika) — do wykorzystania we własnych prezentacjach zamiast grafiki AI. Lokalnie-tylko. |
 
 ## Wymagania wstępne
 

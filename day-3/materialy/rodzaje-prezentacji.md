@@ -1,6 +1,6 @@
 # Rodzaje prezentacji — sprzedażowa, konferencyjna (geek), PR/inspiracyjna
 
-> Materiał uzupełniający do `kozminski-cdo-storytelling.md` i `plan-dnia-storytelling.md`. Framework DataPOV i 5-etapowa struktura z talii Koźmińskiego świetnie sprawdzają się do przekonywania zarządu/darczyńcy, ale nie każda prezentacja ma ten sam cel. Poniżej trzy archetypy — każdy ma inny cel, inną publiczność i inne zakończenie.
+> Materiał do `cwiczenie-3-scenariusze.md`. Framework DataPOV i 5-etapowa struktura świetnie sprawdzają się do przekonywania zarządu/darczyńcy, ale nie każda prezentacja ma ten sam cel. Poniżej trzy archetypy — każdy ma inny cel, inną publiczność i inne zakończenie.
 
 ## Dlaczego to rozróżnienie jest ważne
 
@@ -85,4 +85,4 @@ Najczęstszy błąd początkujących: używanie tej samej struktury do wszystkie
 
 ## Jak to łączy się z dniem gamma.app
 
-Przy wyborze case'u w kroku 1 ćwiczenia (`plan-dnia-storytelling.md`) warto od razu zapytać wolontariusza: *"Do czego chcesz przekonać odbiorców — do decyzji, do wiedzy, czy do działania?"* — to determinuje, którą z trzech struktur powyżej rozpisuje w kroku 3 (framework 5 kroków), zanim treść trafi do Gammy.
+Przy wyborze scenariusza w `cwiczenie-3-scenariusze.md` warto od razu zapytać wolontariusza: *"Do czego chcesz przekonać odbiorców — do decyzji, do wiedzy, czy do działania?"* — to determinuje, którą z trzech struktur powyżej rozpisuje, zanim treść trafi do Gammy. Każdy scenariusz w ćwiczeniu głównym wprost wskazuje, który typ najlepiej pasuje.

@@ -1,7 +1,6 @@
 # Ćwiczenie: wybierz scenariusz i zaprezentuj na żywo
 
-> Zadanie następuje po rozgrzewce z Gammą (`gamma-zadania/`) i korzysta z teorii storytellingu
-> z `plan-dnia-storytelling.md` oraz `materialy/kozminski-cdo-storytelling.md`. Trzy typy
+> Zadanie następuje po rozgrzewce z Gammą (`gamma-zadania/`). Trzy typy
 > prezentacji (sprzedażowa / konferencyjna / PR) są opisane w `materialy/rodzaje-prezentacji.md` —
 > każdy scenariusz poniżej wskazuje, który typ najlepiej pasuje.
 

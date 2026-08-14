@@ -9,8 +9,8 @@ z prostym promptem z zadania 1.
 ## Materiały
 
 - Konto Gamma z zadania 1 (zalogowany).
-- Własny konspekt — np. DataPOV + framework 5 kroków z dzisiejszego
-  ćwiczenia storytellingu (zob. `plan-dnia-storytelling.md`), albo jeden
+- Własny konspekt — np. DataPOV + framework 5 kroków dla scenariusza z
+  dzisiejszego ćwiczenia (zob. `../cwiczenie-3-scenariusze.md`), albo jeden
   z gotowych konspektów poniżej, jeśli nie masz jeszcze własnego tematu:
   przykład tematu prowadzącego (wdrożenie Bielika) albo neutralny przykład
   zapasowy (EcoMart).

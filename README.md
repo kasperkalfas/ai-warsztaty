@@ -1,5 +1,9 @@
 # Kompetencje cyfrowe i AI dla wolontariuszy
 
+![Fundacja Harmonia Życia](logo/image003.jpg)
+
+![Fundusze Europejskie dla Opolskiego | Rzeczpospolita Polska | Dofinansowane przez Unię Europejską | Opolskie](logo/logotypty.jpg)
+
 Program szkoleniowy przygotowujący 20 uczestników projektu (UP) w zakresie kompetencji
 cyfrowych – w tym korzystania z narzędzi sztucznej inteligencji (AI), podstaw
 programowania oraz narzędzi graficznych.
@@ -91,18 +95,6 @@ Podróż po AI i kompetencjach cyfrowych – pełny program obejmuje 8 dni szkol
 | 12:45 – 13:45 | Blok 2: Regulacje AI              |
 | 13:45 – 14:25 | Blok 3: Infrastruktura AI          |
 
-### Blok 1: Systemy AI – szczegółowy rozkład (9:00–12:00)
-
-Wszystkie narzędzia darmowe.
-
-| Czas        | Narzędzie                    | Uwagi                                                    |
-|-------------|-------------------------------|-----------------------------------------------------------|
-| 9:00–9:30   | NotebookLM                    | wgrywanie źródeł, streszczenia, cytowania                  |
-| 9:30–9:45   | Perplexity                    | wyszukiwanie z cytowaniami, porównanie z Google            |
-| 9:45–10:00  | [ElevenLabs](https://elevenlabs.io) | synteza mowy (text-to-speech), darmowy limit znaków/mies. |
-| 10:00–10:45 | Claude                        | konwersacja, analiza dokumentów, kod                        |
-| 10:45–11:30 | Gemini + CLI                  | Gemini w przeglądarce + pokaz Gemini CLI w terminalu        |
-| 11:30–12:00 | [Microsoft Designer](https://designer.microsoft.com) | generowanie grafiki AI, konto Microsoft (darmowe) |
 
 ## Agenda – Dzień 3
 
@@ -116,30 +108,4 @@ Wszystkie narzędzia darmowe.
 | 12:15 – 13:15 | Blok 3: Ćwiczenie główne – wybór scenariusza i przygotowanie prezentacji |
 | 13:15 – 14:25 | Blok 4: Prezentacje na żywo (ok. 5 min/osoba) + feedback   |
 
-### Blok 1: Storytelling i Gamma – teoria (9:00–10:00)
 
-| Czas        | Temat                              | Materiał                                                    |
-|-------------|--------------------------------------|----------------------------------------------------------------|
-| 9:00–9:20   | Storytelling danych – DataPOV, framework 5 kroków | `day-3/materialy/kozminski-cdo-storytelling.md` |
-| 9:20–9:35   | Trzy rodzaje prezentacji (sprzedażowa / konferencyjna / PR) | `day-3/materialy/rodzaje-prezentacji.md` |
-| 9:35–10:00  | Czym jest Gamma.app i jak działa   | `day-3/materialy/gamma-app-wprowadzenie.md` |
-
-### Blok 2: Rozgrzewka z Gammą – zadania 1–5 (10:00–11:30)
-
-Wszystkie zadania w [`day-3/gamma-zadania/`](day-3/gamma-zadania/README.md), narzędzie darmowe (limit kredytów opisany w tamtejszym README).
-
-| Czas        | Zadanie                           | Zakres                                                    |
-|-------------|-------------------------------------|--------------------------------------------------------------|
-| 10:00–10:20 | [01](day-3/gamma-zadania/01-logowanie-i-pierwsza-prezentacja.md) | logowanie do gamma.app, pierwsza prezentacja z opisu |
-| 10:20–10:40 | [02](day-3/gamma-zadania/02-konspekt-i-tryb-paste-in-text.md) | konspekt i tryb „Paste in text" |
-| 10:40–11:00 | [03](day-3/gamma-zadania/03-edycja-i-generowanie-obrazow.md) | edycja i generowanie obrazów |
-| 11:00–11:15 | [04](day-3/gamma-zadania/04-styl-eksport-i-udostepnianie.md) | zmiana stylu, eksport, udostępnianie |
-| 11:15–11:30 | [05](day-3/gamma-zadania/05-luma-i-rodo.md) | publikacja wydarzenia w Luma i klauzula RODO |
-
-### Blok 3 i 4: Ćwiczenie główne i prezentacje na żywo (12:15–14:25)
-
-Szczegóły w [`day-3/cwiczenie-3-scenariusze.md`](day-3/cwiczenie-3-scenariusze.md) — uczestnik wybiera jeden z 3
-scenariuszy (dni otwarte salonu / mowa powitalna na konferencji / program compliance AI i RODO), przygotowuje
-10-slajdową prezentację w Gammie wraz z dodatkowym elementem scenariusza (wydarzenie, plakat, post albo e-maile),
-a następnie prezentuje ją na żywo, na środku, przed grupą. Prowadząca/y przygotowuje i prezentuje własną
-prezentację jako przykład.

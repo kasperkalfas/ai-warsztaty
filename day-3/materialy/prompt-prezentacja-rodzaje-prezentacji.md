@@ -4,7 +4,7 @@
 >
 > Ton: popularno-naukowy, praktyczny — jak poprzednie dwa prompty (`prompt-prezentacja-o-gamma.md`, `prompt-prezentacja-zasady-dobrej-prezentacji.md`).
 >
-> Powiązane: `rodzaje-prezentacji.md`, `plan-dnia-storytelling.md`, `kozminski-cdo-storytelling.md`.
+> Powiązane: `rodzaje-prezentacji.md`, `../cwiczenie-3-scenariusze.md`.
 
 ---
 
@@ -87,4 +87,4 @@ Zanim przejdziesz do własnego ćwiczenia, zdecyduj, który typ pasuje do Twojeg
 ## Wskazówki przed wklejeniem
 
 - Ten konspekt ma 7 kart (+ tytuł) — sporo zapasu w limicie 10 kart darmowego planu Gammy. Sekcję "Szybkie porównanie" warto poprosić Gammę o pokazanie jako tabelę, a nie listę — dopisz to poleceniem edycji po wygenerowaniu ("zamień tę kartę na tabelę porównawczą").
-- Ta prezentacja to naturalne **domknięcie części teoretycznej dnia** — logiczne miejsce w agendzie: po `prompt-prezentacja-o-gamma.md` i `prompt-prezentacja-zasady-dobrej-prezentacji.md`, bezpośrednio przed krokiem 1 ćwiczenia z `plan-dnia-storytelling.md` (wybór case'u), bo pytanie z ostatniej karty ("do decyzji, do wiedzy, czy do działania?") jest właśnie pierwszym pytaniem, jakie wolontariusz musi sobie zadać przy wyborze case'u.
+- Ta prezentacja to naturalne **domknięcie części teoretycznej dnia** — logiczne miejsce w agendzie: po `prompt-prezentacja-o-gamma.md` i `prompt-prezentacja-zasady-dobrej-prezentacji.md`, bezpośrednio przed wyborem scenariusza w `../cwiczenie-3-scenariusze.md`, bo pytanie z ostatniej karty ("do decyzji, do wiedzy, czy do działania?") jest właśnie pierwszym pytaniem, jakie wolontariusz musi sobie zadać przy wyborze scenariusza.

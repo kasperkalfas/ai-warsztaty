@@ -6,10 +6,9 @@ dwóch prawdziwych, opublikowanych przykładów.
 **Poziom:** podstawowy
 **Budżet:** nie dotyczy — Luma i pisanie klauzuli RODO nie korzystają z kredytów Gammy.
 
-To zadanie łączy się z ostatnią kartą przykładowej prezentacji `../materialy/przyklad-prezentacja-pr-kasper.md`
-("Twój pierwszy mały krok") — jedną z zaproponowanych tam opcji było *"sprawdź portale, gdzie
-pojawiają się CFP"*. Luma to właśnie takie narzędzie: pozwala samodzielnie opublikować wydarzenie,
-zamiast czekać, aż ktoś inny je zorganizuje.
+To zadanie nawiązuje do pomysłu "sprawdź portale, gdzie pojawiają się CFP (Call for Papers/Speakers)"
+jako sposobu na znalezienie swojego pierwszego wystąpienia. Luma to właśnie takie narzędzie: pozwala
+samodzielnie opublikować wydarzenie, zamiast czekać, aż ktoś inny je zorganizuje.
 
 ## Materiały
 

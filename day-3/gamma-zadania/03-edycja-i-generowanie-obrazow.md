@@ -11,9 +11,8 @@ zdjęcia jest **darmowe**)
 ## Materiały
 
 - Prezentacja z zadania 1 lub 2 (otwarta w Gammie).
-- Opcjonalnie: własne zdjęcie do wgrania — możesz użyć jednego z plików
-  z `../materialy/zdjecia-prelegent/` albo dowolnego zdjęcia z własnego
-  dysku.
+- Opcjonalnie: własne zdjęcie do wgrania z dysku (np. z realnego
+  wystąpienia, warsztatu albo dowolne inne).
 
 ## Kroki
 
@@ -37,7 +36,7 @@ zdjęcia jest **darmowe**)
 
 7. Na innej karcie najedź na obraz i wybierz **Upload** / **Wgraj** zamiast
    generowania AI.
-8. Wskaż plik z dysku (np. z `../materialy/zdjecia-prelegent/`).
+8. Wskaż plik ze swojego dysku.
 9. Dopasuj kadr — Gamma pozwala przesuwać i skalować zdjęcie w ramach
    przypisanego miejsca na karcie.
 

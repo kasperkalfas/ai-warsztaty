@@ -1,6 +1,6 @@
 # Gotowy prompt: prezentacja "Czym jest i jak używać Gamma.app"
 
-> Konspekt do wygenerowania prezentacji wyjaśniającej wolontariuszom samo narzędzie Gamma — do pokazania na początku dnia szkoleniowego, zanim przejdą do własnego ćwiczenia ze storytellingu. Treść oparta na `gamma-app-wprowadzenie.md`.
+> Konspekt do wygenerowania prezentacji wyjaśniającej wolontariuszom samo narzędzie Gamma — do pokazania na początku dnia szkoleniowego, zanim przejdą do własnego ćwiczenia ze storytellingu.
 >
 > Sama ta prezentacja to dobry przykład **prezentacji konferencyjnej/instruktażowej** (nie sprzedażowej) — celem jest przekazanie wiedzy, a nie decyzja odbiorcy. Zob. `rodzaje-prezentacji.md`.
 
