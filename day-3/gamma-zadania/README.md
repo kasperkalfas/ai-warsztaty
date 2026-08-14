@@ -71,16 +71,18 @@ jest konto prywatne (tak samo jak przy Microsoft Designerze z Dnia 2).
    udostępnianie linkiem.
 5. [05 – Publikacja wydarzenia w Luma i klauzula RODO](05-luma-i-rodo.md) —
    poza Gammą: publikowanie własnej prezentacji jako realnego wydarzenia w
-   [lu.ma](https://lu.ma) i napisanie poprawnej klauzuli RODO dla formularza
+   [luma.com](https://luma.com) i napisanie poprawnej klauzuli RODO dla formularza
    rejestracji, na bazie dwóch prawdziwych, opublikowanych przykładów.
 
 ## Jak wykorzystać podczas szkolenia
 
-Te cztery zadania to **rozgrzewka** przed właściwym ćwiczeniem dnia — nie
+Zadania 1–4 to **rozgrzewka** przed właściwym ćwiczeniem dnia — nie
 zastępują go. Dobrze sprawdzają się jako pierwsze 30–40 minut bloku
 poświęconego Gammie, zanim uczestnicy przejdą do pracy nad własnym DataPOV
 i frameworkiem 5 kroków (zob. `../plan-dnia-storytelling.md`, krok 5:
-„Przeniesienie do Gammy").
+„Przeniesienie do Gammy"). Zadanie 5 (Luma + RODO) ma inny charakter —
+najlepiej pasuje **po** gotowej prezentacji, jako naturalne rozszerzenie
+kroku 6 („Prezentacje 5-minutowe") o pytanie "co dalej z tą prezentacją".
 
 Jeśli czasu jest mało, zadania 1–2 są obowiązkowe (logowanie + dwa tryby
 tworzenia treści), a 3–4 można zostawić do samodzielnego wykonania albo

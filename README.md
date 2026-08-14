@@ -19,6 +19,12 @@ Warsztaty mają dwa cele:
   prezentację wprowadzającą `day2-ai-intro.pptx`, wersję ćwiczeniową
   `day2-ai-tools-practise.pptx`, eksport `day2-ai-tools.pdf` oraz **zadania
   praktyczne do każdego narzędzia** (zob. tabela poniżej).
+- `day-3/` – materiały trzeciego dnia warsztatów: grafika AI i wystąpienia publiczne
+  (storytelling + Gamma.app). Zawiera `gamma-zadania/` (5 zadań rozgrzewkowych
+  z narzędziem), `cwiczenie-3-scenariusze.md` (właściwe ćwiczenie dnia — 3
+  scenariusze prezentacji zakończone 5-minutowym wystąpieniem na żywo) oraz
+  `materialy/` z teorią storytellingu i przykładami (część plików jest
+  lokalna-tylko, zob. `.gitignore`).
 - `logo/` – grafiki i logotypy używane w materiałach programu.
 
 Kolejne dni/moduły (programowanie, narzędzia graficzne) będą dodawane jako osobne foldery
@@ -43,6 +49,21 @@ Materiały źródłowe do ćwiczeń (zdrowy tryb życia, ergonomia pracy, przyk�
 regulamin BHP) znajdują się w
 [`day-2/notebooklm-zadania/materialy/`](day-2/notebooklm-zadania/materialy/) i są
 wykorzystywane także przez zadania z pozostałych narzędzi.
+
+### Zadania praktyczne – Dzień 3
+
+Dzień 3 skupia się na jednym narzędziu (Gamma.app) i praktycznym ćwiczeniu z
+wystąpieniami publicznymi — struktura inna niż w Dniu 2, bo nie ma tu osobnego
+folderu na każde narzędzie.
+
+| Folder/plik | Zawartość |
+|-------------|-----------|
+| [`day-3/gamma-zadania/`](day-3/gamma-zadania/) | 5 zadań rozgrzewkowych: logowanie i pierwsza prezentacja, tryb „Paste in text", edycja i obrazy, styl/eksport/udostępnianie, oraz publikacja wydarzenia w Luma wraz z klauzulą RODO |
+| [`day-3/cwiczenie-3-scenariusze.md`](day-3/cwiczenie-3-scenariusze.md) | Właściwe ćwiczenie dnia — uczestnik wybiera jeden z 3 scenariuszy (sprzedażowy, mowa konferencyjna, program compliance), przygotowuje 10-slajdową prezentację w Gammie i prezentuje ją na żywo w ok. 5 minut |
+| [`day-3/materialy/`](day-3/materialy/) | Teoria storytellingu (framework DataPOV, 5 kroków, typy prezentacji) i gotowe przykłady/prompty — część plików jest dostępna tylko lokalnie (zob. `.gitignore`) |
+
+Podobnie jak w Dniu 2: konto do narzędzia (gamma.app) warto założyć **przed**
+szkoleniem — szczegóły w [`day-3/gamma-zadania/README.md`](day-3/gamma-zadania/README.md).
 
 ## Harmonogram szkolenia
 
